@@ -6,8 +6,12 @@ import { Component } from '@angular/core';
 	styleUrls: ['./starter-home.component.scss']
 })
 export class StarterHomeComponent {
-	
+
 	someFun() {
 		return 5
+	}
+
+	anotherFun() {
+		return 3
 	}
 }
