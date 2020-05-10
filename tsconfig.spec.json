@@ -14,12 +14,11 @@
 		"target": "es2015",
 		"baseUrl": "",
 		"types": [
-			"jasmine",
+			"jest",
 			"node"
 		]
 	},
 	"files": [
-		"test.ts",
 	  "polyfills.ts"
   ],
 	"include": [
